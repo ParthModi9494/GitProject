@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-  myName = "Parth"
+  myName = "Parth";
+  myTitle : 'Modi';
 }
